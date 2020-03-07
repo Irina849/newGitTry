@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Bransh 1. First commit");
         System.out.println("Bransh 1. Second commit");
         System.out.println("MASTER: Second commit");
+
         System.out.println("Bransh 2. First commit");
+        System.out.println("Bransh 2. Second commit");
     }
 }
