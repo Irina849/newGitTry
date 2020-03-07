@@ -12,6 +12,8 @@ public class Main {
         System.out.println("Bransh 2. Second commit");
         System.out.println("MASTER: Third commit");
 
+        System.out.println("Bransh 3. First commit");
+        System.out.println("Bransh 3. Second commit");
         System.out.println("MASTER: Fourth commit");
     }
 }
